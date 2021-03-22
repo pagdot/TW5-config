@@ -1,0 +1,12 @@
+[submodule "dependencies/TW5-contextPlugin"]
+	path = dependencies/TW5-contextPlugin
+	url = https://github.com/danielo515/TW5-contextPlugin
+[submodule "dependencies/tw5-relink"]
+	path = dependencies/tw5-relink
+	url = git@github.com:flibbles/tw5-relink.git
+[submodule "dependencies/notebook"]
+	path = dependencies/notebook
+	url = https://github.com/NicolasPetton/notebook
+[submodule "dependencies/Tinka"]
+	path = dependencies/Tinka
+	url = https://github.com/TinkaPlugin/Tinka

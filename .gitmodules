@@ -10,3 +10,6 @@
 [submodule "dependencies/Tinka"]
 	path = dependencies/Tinka
 	url = https://github.com/TinkaPlugin/Tinka
+[submodule "dependencies/TW5-TagRef"]
+	path = dependencies/TW5-TagRef
+	url = git@github.com:pagdot/TW5-TagRef.git

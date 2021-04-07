@@ -14,7 +14,8 @@
         "danielo515/contextPlugin",
         "flibbles/relink",
         "nico/notebook-mobile",
-        "ahahn/tinka"
+        "ahahn/tinka",
+        "pagdot/tagref"
     ],
     "themes": [
         "tiddlywiki/vanilla",
